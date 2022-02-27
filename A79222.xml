@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prince Charles his gracious resolution concerning the present affaires of this Kingdome, presented to His Sacred Maiesty by Doctor Duppa, Bishop of Salisbury, in a speech delivered in the Princes behalfe, for a sudden accomodation of peace between His Majesty, and his high court of Parliament. As also, His Highnesse humble request to His Maiesty, in behalfe of sundry commanders taken prisoners by the Kings army.</title>
+            <author>Duppa, Brian, 1588-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79222</idno>
+            <idno type="STC">Wing C3041</idno>
+            <idno type="STC">Thomason E83_31</idno>
+            <idno type="STC">ESTC R4331</idno>
+            <idno type="EEBO-CITATION">99872654</idno>
+            <idno type="PROQUEST">99872654</idno>
+            <idno type="VID">155640</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79222)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155640)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E83[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Prince Charles his gracious resolution concerning the present affaires of this Kingdome, presented to His Sacred Maiesty by Doctor Duppa, Bishop of Salisbury, in a speech delivered in the Princes behalfe, for a sudden accomodation of peace between His Majesty, and his high court of Parliament. As also, His Highnesse humble request to His Maiesty, in behalfe of sundry commanders taken prisoners by the Kings army.</title>
+                  <author>Duppa, Brian, 1588-1662.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>First printed at Oxford by Leonard Lichfield, and now reprinted at London for John Rivers,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Rare.  This is an interesting and apparently genuine speech embodying the Prince's desire to see an accomodation of peace .. The speech of Duppa refers to Lilburne's trial .. The original Oxford ed. probably never existed." -- cf. Madan.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 30th 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Speeches, addresses, etc., English --  Early works to 1800.</term>
+               <term>Peace --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155640:1"/>
+            <pb facs="tcp:155640:1" rendition="simple:additions"/>
+            <p>PRINCE CHARLES His Gracious Reſolution Concerning the preſent Affaires of this Kingdome, preſented to His ſacred MAIESTY by Doctor <hi>Duppa,</hi> Biſhop of <hi>Salisbury,</hi> in a Speech delivered in the PRINCES behalfe, for a ſudden Ac<g ref="char:EOLhyphen"/>comodation of Peace between His <hi>Majeſty,</hi> and His High Court of <hi>Parliament.</hi>
+            </p>
+            <p>
+               <hi>AS ALSO,</hi> His Highneſſe humble requeſt to His MAIESTY, in behalfe of ſundry Commanders taken priſo<g ref="char:EOLhyphen"/>ners by the KINGS Army.</p>
+            <p>Firſt printed at <hi>Oxford</hi> by <hi>Leonard Lichfield,</hi> and now re<g ref="char:EOLhyphen"/>printed at <hi>London</hi> for JOHN RIVERS.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155640:2"/>
+            <pb n="3" facs="tcp:155640:2"/>
+            <head>
+               <figure>
+                  <q xml:lang="lat">DOCTRINA PARIT VIRTUTEM</q>
+                  <figDesc>a device with an open book, a sword, a scepter, and surrounding motto (McKerrow 347)</figDesc>
+               </figure>
+            </head>
+            <head>PRINCE <hi>CHARLES</hi> His gracious reſolution concerning the af<g ref="char:EOLhyphen"/>faires of this KINGDOME.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Ay it pleaſe your ſacred Majeſty, I am by the commands of that lively Image of your Royall virtues, your gracious Sonne, our hopefull Prince <hi>Charles,</hi> firſt, to make an humble tender of his duty to your Majeſty, and then to remonſtrate to your ſu<g ref="char:EOLhyphen"/>preme wiſdome the ſenſe His High<g ref="char:EOLhyphen"/>neſſe hath in theſe ſo tender yeers of the calamitous and intollerable afflictions that march as it were <hi>magnis Catervis,</hi> through your Majeſties Dominions, and the reſolution his gracious deſire hath fixt on; (with your Majeſties favourable allowance) for their ſudden cure and remedy: Your Highneſſe was pleaſed in his infancy to commit the Prince, the darling and little eye of this King<g ref="char:EOLhyphen"/>dome, to my tuition, and without arrogating any thing to my owne paines (in that <hi>abſit jactantia verbis</hi>) I muſt aſſure your Majeſty in his very diſpoſition then appeared the tru<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> character of Royaltie, written by the hand of nature in the faire Table of his mind; and though <hi>velle &amp; nolle</hi> was not then in his reach, it being not capable in ſo young yeare<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of
+<pb n="4" facs="tcp:155640:3"/> the uſe of reaſon; yet that ſtrong propenſion was in his ſoule to good, that he appeared in all his actions as if he had been moulded for the Soveraignty and Empire of the world. And thoſe childiſh and gentle vertues once meeting (as now by his age they have done) with the guidance of reaſon and diſcre<g ref="char:EOLhyphen"/>tion how incomparable and admirable they will grow, to the joy of the whole kingdome, and comfort of your Majeſty, may be conjectured by this, that he does with ſo much ten<g ref="char:EOLhyphen"/>dernes and griefe reſent the diſtractions and diſſentions, ſee<g ref="char:EOLhyphen"/>ming in every place of your Majeſties dominions, and with much earneſtneſſe, beſeech your goodneſſe to accept from me his intentions and reſolutions concerning the compoſing theſe differences, which certainly have not been infuſed into the Prince His Highneſſe, by any counſels or perſwaſions of mine, or any other that attend his gracious perſon, but are meerly the iſſues of his owne <hi>Minerva,</hi> the conceptions of his excellent and increaſing fancy. He is not ignorant (as ſayes his Highneſſe, and ſo injoyned me to informe your Majeſty) that the injuries and diſobediences which have been attempted againſt your Royall dignity, by divers of your ſub<g ref="char:EOLhyphen"/>jects, ought not to be put up without puniſhing the offen<g ref="char:EOLhyphen"/>dors; but his Highneſſe humbly beſeeches you to make more uſe of your mercy then juſtice; and ſurely in that (under your Royall pardon) the judicious infant hath delivered that which heaven commands, and commends to Rulers of the Earth; namely, to ſhew mercy, I will ſhew mercy to the mer<g ref="char:EOLhyphen"/>cifull; but your ſacred goodneſſe is ſo well skilled in all the works of mercy, that it does appeare a needleſſe labour in his Highneſſe to incite your diſpoſition to that which is already as inſeparable to your Royall nature, as is your reaſon. The particular, if it pleaſe your Majeſty, in which His Grace implores (for his ſake) your compaſſion, is, that you would graciouſly be pleaſed to let no further proſecution of juſtice, or puniſhment, be uſed againſt the perſons of Captaine <hi>Lil<g ref="char:EOLhyphen"/>barne,</hi> and others of the Parliaments Commanders, now pri<g ref="char:EOLhyphen"/>ſoners here, and by the ſevere Letter of the Law condem<g ref="char:EOLhyphen"/>ned
+<pb n="5" facs="tcp:155640:3"/> to death, his Highneſſe beleeving, and not without rea<g ref="char:EOLhyphen"/>ſon (the Parliament having declared as much) that what<g ref="char:EOLhyphen"/>ſoever puniſhment ſhall be inflicted on them, the ſame will be extended to the perſons of ſuch noble Gentlemen as in your Majeſties ſervice by the uncertaine chance of war have been made their Captives. And ſurely my opinion in that is concurrent with that of the Princes: beſides, there can be no greater ornament to Imperiall Majeſty, then to remit the of<g ref="char:EOLhyphen"/>fences of their Subjects, eſpecially when it is apparent they were not intentionall nor malicious offences, as my charity induces me to beleeve theſe Captaines never entertained the meaneſt thought of diſloyalty to your ſacred perſon or dignity, but came into the field as it were in the Company, and by the examples of their neighbours; nor ſhould a pub<g ref="char:EOLhyphen"/>lieke crime be attributed to a few private men, ſuch as theſe are, who having the authority of Parliament for their putting on Armes, beleeve in their miſled Con<g ref="char:EOLhyphen"/>ſciences, it was warrant ſufficient for them to doe their endeavours in theſe unhappy Civill warres: For the generall State of the Kingdome now diſſected into ſeverall factions and diſtractions, the Prince hath often<g ref="char:EOLhyphen"/>times even with teares bewailed to me and others the miſe<g ref="char:EOLhyphen"/>ries which oppreſſively are did uſed throughout your Ma<g ref="char:EOLhyphen"/>jeſties (his royall fathers) dominions; of which, though his yet budding reaſon cannot comprehend the abſolute cauſes; yet he gives a ſhrewd gueſſe at them, far above the expecta<g ref="char:EOLhyphen"/>tion of his tender yeeres: hee hath informed mee out of his owne Genius, Royall Sir, that hee conceives buſineſſes have beene tranſacted between your ſacred Selfe and your high Court of Parliament, with too much acrimony and violence, for as much as his ſmall reading had informed his under<g ref="char:EOLhyphen"/>ſtanding, he had gathered, that the <hi>Engliſh</hi> Parliaments were the beſt and moſt neceſſary Counſellors of the <hi>Engl ſh</hi> Kings, and then againe complained hee was fearefull your Majeſty had beene miſ-informed againſt your Parliament by ſome, who for their owne pernicious ends, affected the fomenta<g ref="char:EOLhyphen"/>tion
+<pb n="6" facs="tcp:155640:4"/> and continuance of theſe diſſentions, ſo prettily reaſon<g ref="char:EOLhyphen"/>ing the cauſes and effects of theſe diſtractions, that in truth with much joy I heard his Highneſſe, reſembling him to that young hopefull Monarch of this Nation, <hi>Edward</hi> the ſixth, who was indued with an inſpired wiſdome above his yeeres; concluding with my ſelfe, that if that Kingdome were to be held unhappy that had a child to their King<g ref="char:punc">▪</g> how fortunate and bleſſed were ours, that had a Prince, who, though in yeeres a child, was a man in the purity and ſolidneſſe of his diſcretion another <hi>Salomon;</hi> that (when heaven takes your Majeſty from us) might ſit upon the throne of his father <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> and governe his people <hi>Iſrael</hi> with wiſdome and equity: and ſurely we may believe, that heaven, as it hath conferred an eminent dignity upon Princes, tranſcending that of other inferiour perſons, it hath likewiſe furniſhed and adorned them with more ſelect and ſuperlative underſtandings and indowments of the mind then are in other men.</p>
+            <p>But to his Highneſſe reſolution, with which hee deſired me to acquaint your ſacred Majeſty, hee doth firſt reſolve, that if God ſhould pleaſe to take your Majeſty from him and us (which in his mercy wee all hope hee will not) du<g ref="char:EOLhyphen"/>ring the time of theſe afflictions and diſtractions, that hee a childe ſhould then come to a Scepter ſo incumbred, a King<g ref="char:EOLhyphen"/>dome ſo perplexed and rent in pieces with civill troubles, that it were impoſſible for him ever to quench the wildfire of theſe diſtractions, which out of the confidence of his weakneſſe, and the inabilities of his youth, would increaſe paſt his extinguiſhment, and ſo diminiſh the Royalty of this Crowne; that he ſhould be impoſſibilited for ever attaining to the full Imperiall State and abſolute Monarchall dignity of his famous anceſtors, a fortune I know to the greatneſſe of his ſpirit far more intolerable than death it ſelfe. Next, may it pleaſe your Majeſty, he reſolves, that if theſe bloody and inhumane wars run thus through the body of this King<g ref="char:EOLhyphen"/>dome, that as their ſubſequents muſt neceſſarily follow, de<g ref="char:EOLhyphen"/>vaſtations, ruines of Cities and Townes by fire and ſword,
+<pb n="7" facs="tcp:155640:4"/> murthers of men, women and children by the cruelty and barbarouſneſſe of the ſouldiers, the utter extirpation of Gods true Religion and worſhip, ſects and ſchiſmes uſurping the face of truth, and bewitching the mindes of ignorant minded people: All which misfortunes he imagines are reflexive on his gracious ſelfe<g ref="char:punc">▪</g> as he is your ſonne and (if God doe not for our ſinnes take him away from us) muſt ſucceed your Grace in the royalties of this and your other Dominions; the townes or Cities that ſhall or have been ruined in theſe wars; his Highneſſe accounts as part of his patrimony rioted from his inheritance; the ſubjects your Majeſty loſes, he con<g ref="char:EOLhyphen"/>cludes might have lived to have been his, and believes that their decreaſing is a diminution to his power and the abili<g ref="char:EOLhyphen"/>ties of this Kingdome. Finally, he takes to heart ſo all the evills which now overſpread the face of this our earth, that they almoſt include his gentle and ſweet diſpoſition to an unwelcome melancholly; that it may prove prejudiciall to his health and our hopes. And truly, ſo pleaſe your Majeſty, if when your wiſdome ſhall fully take it into your gracious conſideration, nothing can be more deſtructive to the obedi<g ref="char:EOLhyphen"/>ence which the Subject of <hi>Engla<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</hi> (ſhould the Prince ever arrive to be King) ought to pay his Highneſſe, then the re<g ref="char:EOLhyphen"/>membrance of theſe warres hapning in your raigne: the people who alwayes believe of times paſt according to the traditions they have from their father, being apt to credit that thoſe bloody miſchiefes were onely occaſioned by your Majeſty, and ſo your memory will be nothing gratefull to poſterity; and where they doe not affect the memory of the father, hardly can that various beaſt, the multitude, ever be induced to love and reverence the ſonne. Beſides, ſhould the wars continue, what inſufferable daily miſeries muſt this wretched Kingdome expect, when all places ſhall onely be, as it were, conſtant ſcenes where Tragedies are daily acted; and for that Phenix, true Religion, which hath long beauti<g ref="char:EOLhyphen"/>fied this Nation, if ſhe expire by the malignity of theſe wars, we muſt not expect a new one will miraculouſly ariſe out of
+<pb n="8" facs="tcp:155640:5"/> the parents aſhes; a new one there may, but not a true one, it will rather be a Harpy then a Phenix, ſome ſtrange com<g ref="char:EOLhyphen"/>pound of ſundry ſchiſmes, polluting the beauty of the Church of God, or perhaps every man will be of his owne Religion, or elſe be of none at all.</p>
+            <p>And what a ſtrange and uncouth metamorphoſis this will be, your Majeſty may judge, and ſo depreſſe the Serpent while it is in the Egge, leſt if brought forth, it grow up a Dragon formidable for its poyſonous venome to all your Dominions. In the Princes name therefore, moſt dre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Soveraigne, and by his appointment, and for his ſweet ſake, the ſtaffe and prop of your age, and the growing hope of this Kingdome, I am to beſeech your Majeſty to thinke on ſome way for a ſpeedy Accommodation betwixt your Self and the honourable your High Court of Parliament. The Prince, your gracious and hopefull ſonne intreats it, your Nobles hope and expect it, and briefly, as the maine ſupport of your Royall dignity and the proſperity of all your King<g ref="char:EOLhyphen"/>dome, your people that bleed with theſe wounds, and groane under that burthen of war, implore it from your goodneſſe; for all their ſakes, in eſpeciall for your Princely ſonnes, for whom I am now imployed an inelegant Orator, great King performe it. And ſo begging your Royall pardon, if the zeale I have to the Cauſe and your Majeſties ſervice, have made me tranſcend my Commiſſion, I beſeech him in whoſe hands are all the corners of the earth, and the hearts of Prin<g ref="char:EOLhyphen"/>ces, to give no leſſe then <hi>Methuſala's</hi> date to your raigne over us, in peace, proſperity and plenty.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
